@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20250301</CreaDate><CreaTime>14442700</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files\arcgis\pro\Resources\ArcToolbox\toolboxes\Spatial Analyst Tools.tbx\ZonalStatisticsAsTable" Date="20250301" Time="144427">ZonalStatisticsAsTable Subbasin name cngrid.tif "F:\hec-hms\curve-number valve\cn_value.dbf" DATA Mean CURRENT_SLICE 90 Auto-detect ARITHMETIC 360 #</Process></lineage></DataProperties></Esri></metadata>

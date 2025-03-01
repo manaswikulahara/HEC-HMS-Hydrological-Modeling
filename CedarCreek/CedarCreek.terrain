@@ -1,0 +1,13 @@
+Terrain Data Manager: CedarCreek
+     Version: 4.12
+     Filepath Separator: \
+End:
+
+Terrain Data: Cedar
+     Description: 
+     Terrain Directory: terrain\Cedar
+     Vertical Units: Meters
+     Stream Threshold: 25 km²
+     Last Modified Date: 26 February 2025
+     Last Modified Time: 09:20:35
+End:

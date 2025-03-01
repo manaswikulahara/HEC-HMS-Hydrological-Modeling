@@ -1,0 +1,89 @@
+NOTE 10019:  Finished opening project "CedarCreek" in directory "C:\Users\manas\OneDrive\Desktop\hec-hms project\CedarCreek" at time 01Mar2025, 15:56:02.
+WARNING 10351:  Could not connect precipitation gage "" to data in the time-series manager.
+WARNING 10351:  Could not connect precipitation gage "" to data in the time-series manager.
+WARNING 10351:  Could not connect precipitation gage "" to data in the time-series manager.
+WARNING 10351:  Could not connect precipitation gage "" to data in the time-series manager.
+WARNING 41743:  Initial abstraction ratio for subbasin "Subbasin-6" is 0.0.
+WARNING 41743:  Initial abstraction ratio for subbasin "Subbasin-1" is 0.0.
+WARNING 41743:  Initial abstraction ratio for subbasin "Subbasin-11" is 0.0.
+WARNING 41743:  Initial abstraction ratio for subbasin "Subbasin-2" is 0.0.
+WARNING 41743:  Initial abstraction ratio for subbasin "Subbasin-12" is 0.0.
+WARNING 41743:  Initial abstraction ratio for subbasin "Subbasin-7" is 0.0.
+WARNING 41743:  Initial abstraction ratio for subbasin "Subbasin-8" is 0.0.
+WARNING 41743:  Initial abstraction ratio for subbasin "Subbasin-13" is 0.0.
+WARNING 41743:  Initial abstraction ratio for subbasin "Subbasin-3" is 0.0.
+WARNING 41743:  Initial abstraction ratio for subbasin "Subbasin-16" is 0.0.
+WARNING 41743:  Initial abstraction ratio for subbasin "Subbasin-4" is 0.0.
+WARNING 41743:  Initial abstraction ratio for subbasin "Subbasin-18" is 0.0.
+WARNING 41743:  Initial abstraction ratio for subbasin "Subbasin-5" is 0.0.
+WARNING 41743:  Initial abstraction ratio for subbasin "Subbasin-10" is 0.0.
+WARNING 20657:  Hyetograph gage "Gage 1" for subbasin "Subbasin-6" contains 528 missing or negative precipitation values that were set to zero.
+WARNING 20657:  Hyetograph gage "Gage 1" for subbasin "Subbasin-1" contains 528 missing or negative precipitation values that were set to zero.
+WARNING 20657:  Hyetograph gage "Gage 1" for subbasin "Subbasin-11" contains 528 missing or negative precipitation values that were set to zero.
+WARNING 20657:  Hyetograph gage "Gage 1" for subbasin "Subbasin-2" contains 528 missing or negative precipitation values that were set to zero.
+WARNING 20657:  Hyetograph gage "Gage 1" for subbasin "Subbasin-12" contains 528 missing or negative precipitation values that were set to zero.
+WARNING 20657:  Hyetograph gage "Gage 1" for subbasin "Subbasin-7" contains 528 missing or negative precipitation values that were set to zero.
+WARNING 20657:  Hyetograph gage "Gage 1" for subbasin "Subbasin-8" contains 528 missing or negative precipitation values that were set to zero.
+WARNING 20657:  Hyetograph gage "Gage 1" for subbasin "Subbasin-13" contains 528 missing or negative precipitation values that were set to zero.
+WARNING 20657:  Hyetograph gage "Gage 1" for subbasin "Subbasin-3" contains 528 missing or negative precipitation values that were set to zero.
+WARNING 20657:  Hyetograph gage "Gage 1" for subbasin "Subbasin-16" contains 528 missing or negative precipitation values that were set to zero.
+WARNING 20657:  Hyetograph gage "Gage 1" for subbasin "Subbasin-4" contains 528 missing or negative precipitation values that were set to zero.
+WARNING 20657:  Hyetograph gage "Gage 1" for subbasin "Subbasin-18" contains 528 missing or negative precipitation values that were set to zero.
+WARNING 20657:  Hyetograph gage "Gage 1" for subbasin "Subbasin-5" contains 528 missing or negative precipitation values that were set to zero.
+WARNING 20657:  Hyetograph gage "Gage 1" for subbasin "Subbasin-10" contains 528 missing or negative precipitation values that were set to zero.
+NOTE 42413:  Unit hydrograph volume for subbasin "Subbasin-6" is 1.0000 mm.
+NOTE 42413:  Unit hydrograph volume for subbasin "Subbasin-1" is 1.0000 mm.
+NOTE 42413:  Unit hydrograph volume for subbasin "Subbasin-11" is 1.0000 mm.
+NOTE 42413:  Unit hydrograph volume for subbasin "Subbasin-2" is 1.0000 mm.
+NOTE 42413:  Unit hydrograph volume for subbasin "Subbasin-12" is 1.0000 mm.
+NOTE 42413:  Unit hydrograph volume for subbasin "Subbasin-7" is 1.0000 mm.
+NOTE 42413:  Unit hydrograph volume for subbasin "Subbasin-8" is 1.0000 mm.
+NOTE 42413:  Unit hydrograph volume for subbasin "Subbasin-13" is 1.0000 mm.
+NOTE 42413:  Unit hydrograph volume for subbasin "Subbasin-3" is 1.0000 mm.
+NOTE 42413:  Unit hydrograph volume for subbasin "Subbasin-16" is 1.0000 mm.
+NOTE 42413:  Unit hydrograph volume for subbasin "Subbasin-4" is 1.0000 mm.
+NOTE 42413:  Unit hydrograph volume for subbasin "Subbasin-18" is 1.0000 mm.
+NOTE 42413:  Unit hydrograph volume for subbasin "Subbasin-5" is 1.0000 mm.
+NOTE 42413:  Unit hydrograph volume for subbasin "Subbasin-10" is 1.0000 mm.
+WARNING 41743:  Initial abstraction ratio for subbasin "Subbasin-6" is 0.0.
+WARNING 41743:  Initial abstraction ratio for subbasin "Subbasin-1" is 0.0.
+WARNING 41743:  Initial abstraction ratio for subbasin "Subbasin-11" is 0.0.
+WARNING 41743:  Initial abstraction ratio for subbasin "Subbasin-2" is 0.0.
+WARNING 41743:  Initial abstraction ratio for subbasin "Subbasin-12" is 0.0.
+WARNING 41743:  Initial abstraction ratio for subbasin "Subbasin-7" is 0.0.
+WARNING 41743:  Initial abstraction ratio for subbasin "Subbasin-8" is 0.0.
+WARNING 41743:  Initial abstraction ratio for subbasin "Subbasin-13" is 0.0.
+WARNING 41743:  Initial abstraction ratio for subbasin "Subbasin-3" is 0.0.
+WARNING 41743:  Initial abstraction ratio for subbasin "Subbasin-16" is 0.0.
+WARNING 41743:  Initial abstraction ratio for subbasin "Subbasin-4" is 0.0.
+WARNING 41743:  Initial abstraction ratio for subbasin "Subbasin-18" is 0.0.
+WARNING 41743:  Initial abstraction ratio for subbasin "Subbasin-5" is 0.0.
+WARNING 41743:  Initial abstraction ratio for subbasin "Subbasin-10" is 0.0.
+WARNING 20657:  Hyetograph gage "Gage 1" for subbasin "Subbasin-6" contains 528 missing or negative precipitation values that were set to zero.
+WARNING 20657:  Hyetograph gage "Gage 1" for subbasin "Subbasin-1" contains 528 missing or negative precipitation values that were set to zero.
+WARNING 20657:  Hyetograph gage "Gage 1" for subbasin "Subbasin-11" contains 528 missing or negative precipitation values that were set to zero.
+WARNING 20657:  Hyetograph gage "Gage 1" for subbasin "Subbasin-2" contains 528 missing or negative precipitation values that were set to zero.
+WARNING 20657:  Hyetograph gage "Gage 1" for subbasin "Subbasin-12" contains 528 missing or negative precipitation values that were set to zero.
+WARNING 20657:  Hyetograph gage "Gage 1" for subbasin "Subbasin-7" contains 528 missing or negative precipitation values that were set to zero.
+WARNING 20657:  Hyetograph gage "Gage 1" for subbasin "Subbasin-8" contains 528 missing or negative precipitation values that were set to zero.
+WARNING 20657:  Hyetograph gage "Gage 1" for subbasin "Subbasin-13" contains 528 missing or negative precipitation values that were set to zero.
+WARNING 20657:  Hyetograph gage "Gage 1" for subbasin "Subbasin-3" contains 528 missing or negative precipitation values that were set to zero.
+WARNING 20657:  Hyetograph gage "Gage 1" for subbasin "Subbasin-16" contains 528 missing or negative precipitation values that were set to zero.
+WARNING 20657:  Hyetograph gage "Gage 1" for subbasin "Subbasin-4" contains 528 missing or negative precipitation values that were set to zero.
+WARNING 20657:  Hyetograph gage "Gage 1" for subbasin "Subbasin-18" contains 528 missing or negative precipitation values that were set to zero.
+WARNING 20657:  Hyetograph gage "Gage 1" for subbasin "Subbasin-5" contains 528 missing or negative precipitation values that were set to zero.
+WARNING 20657:  Hyetograph gage "Gage 1" for subbasin "Subbasin-10" contains 528 missing or negative precipitation values that were set to zero.
+NOTE 42413:  Unit hydrograph volume for subbasin "Subbasin-6" is 1.0000 mm.
+NOTE 42413:  Unit hydrograph volume for subbasin "Subbasin-1" is 1.0000 mm.
+NOTE 42413:  Unit hydrograph volume for subbasin "Subbasin-11" is 1.0000 mm.
+NOTE 42413:  Unit hydrograph volume for subbasin "Subbasin-2" is 1.0000 mm.
+NOTE 42413:  Unit hydrograph volume for subbasin "Subbasin-12" is 1.0000 mm.
+NOTE 42413:  Unit hydrograph volume for subbasin "Subbasin-7" is 1.0000 mm.
+NOTE 42413:  Unit hydrograph volume for subbasin "Subbasin-8" is 1.0000 mm.
+NOTE 42413:  Unit hydrograph volume for subbasin "Subbasin-13" is 1.0000 mm.
+NOTE 42413:  Unit hydrograph volume for subbasin "Subbasin-3" is 1.0000 mm.
+NOTE 42413:  Unit hydrograph volume for subbasin "Subbasin-16" is 1.0000 mm.
+NOTE 42413:  Unit hydrograph volume for subbasin "Subbasin-4" is 1.0000 mm.
+NOTE 42413:  Unit hydrograph volume for subbasin "Subbasin-18" is 1.0000 mm.
+NOTE 42413:  Unit hydrograph volume for subbasin "Subbasin-5" is 1.0000 mm.
+NOTE 42413:  Unit hydrograph volume for subbasin "Subbasin-10" is 1.0000 mm.

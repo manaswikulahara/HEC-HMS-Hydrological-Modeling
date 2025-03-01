@@ -1,0 +1,64 @@
+NOTE 15301:  Began computing simulation run "Run 1" at time 01Mar2025, 17:00:11.
+NOTE 20364:  Found no parameter problems in meteorologic model "Met 1".
+NOTE 40049:  Found no parameter problems in basin model "CedarCreek".
+WARNING 41743:  Initial abstraction ratio for subbasin "Subbasin-6" is 0.0.
+WARNING 41743:  Initial abstraction ratio for subbasin "Subbasin-1" is 0.0.
+WARNING 41743:  Initial abstraction ratio for subbasin "Subbasin-11" is 0.0.
+WARNING 41743:  Initial abstraction ratio for subbasin "Subbasin-2" is 0.0.
+WARNING 41743:  Initial abstraction ratio for subbasin "Subbasin-12" is 0.0.
+WARNING 41743:  Initial abstraction ratio for subbasin "Subbasin-7" is 0.0.
+WARNING 41169:  Muskingum routing is unstable with the given parameters for reach "Reach-4".
+WARNING 41743:  Initial abstraction ratio for subbasin "Subbasin-8" is 0.0.
+WARNING 41743:  Initial abstraction ratio for subbasin "Subbasin-13" is 0.0.
+WARNING 41169:  Muskingum routing is unstable with the given parameters for reach "Reach-3".
+WARNING 41743:  Initial abstraction ratio for subbasin "Subbasin-3" is 0.0.
+WARNING 41169:  Muskingum routing is unstable with the given parameters for reach "Reach-7".
+WARNING 41743:  Initial abstraction ratio for subbasin "Subbasin-16" is 0.0.
+WARNING 41743:  Initial abstraction ratio for subbasin "Subbasin-4" is 0.0.
+WARNING 41169:  Muskingum routing is unstable with the given parameters for reach "Reach-8".
+WARNING 41743:  Initial abstraction ratio for subbasin "Subbasin-18" is 0.0.
+WARNING 41169:  Muskingum routing is unstable with the given parameters for reach "Reach-6".
+WARNING 41743:  Initial abstraction ratio for subbasin "Subbasin-5" is 0.0.
+WARNING 41169:  Muskingum routing is unstable with the given parameters for reach "Reach-5".
+WARNING 41743:  Initial abstraction ratio for subbasin "Subbasin-10" is 0.0.
+WARNING 40017:  Observed Discharge gage "Gage 1" at element "Sink-1" has some missing data.
+WARNING 20657:  Hyetograph gage "Gage 1" for subbasin "Subbasin-6" contains 528 missing or negative precipitation values that were set to zero.
+WARNING 20657:  Hyetograph gage "Gage 1" for subbasin "Subbasin-1" contains 528 missing or negative precipitation values that were set to zero.
+WARNING 20657:  Hyetograph gage "Gage 1" for subbasin "Subbasin-11" contains 528 missing or negative precipitation values that were set to zero.
+WARNING 20657:  Hyetograph gage "Gage 1" for subbasin "Subbasin-2" contains 528 missing or negative precipitation values that were set to zero.
+WARNING 20657:  Hyetograph gage "Gage 1" for subbasin "Subbasin-12" contains 528 missing or negative precipitation values that were set to zero.
+WARNING 20657:  Hyetograph gage "Gage 1" for subbasin "Subbasin-7" contains 528 missing or negative precipitation values that were set to zero.
+WARNING 20657:  Hyetograph gage "Gage 1" for subbasin "Subbasin-8" contains 528 missing or negative precipitation values that were set to zero.
+WARNING 20657:  Hyetograph gage "Gage 1" for subbasin "Subbasin-13" contains 528 missing or negative precipitation values that were set to zero.
+WARNING 20657:  Hyetograph gage "Gage 1" for subbasin "Subbasin-3" contains 528 missing or negative precipitation values that were set to zero.
+WARNING 20657:  Hyetograph gage "Gage 1" for subbasin "Subbasin-16" contains 528 missing or negative precipitation values that were set to zero.
+WARNING 20657:  Hyetograph gage "Gage 1" for subbasin "Subbasin-4" contains 528 missing or negative precipitation values that were set to zero.
+WARNING 20657:  Hyetograph gage "Gage 1" for subbasin "Subbasin-18" contains 528 missing or negative precipitation values that were set to zero.
+WARNING 20657:  Hyetograph gage "Gage 1" for subbasin "Subbasin-5" contains 528 missing or negative precipitation values that were set to zero.
+WARNING 20657:  Hyetograph gage "Gage 1" for subbasin "Subbasin-10" contains 528 missing or negative precipitation values that were set to zero.
+NOTE 42413:  Unit hydrograph volume for subbasin "Subbasin-6" is 1.0000 mm.
+NOTE 42413:  Unit hydrograph volume for subbasin "Subbasin-1" is 1.0000 mm.
+NOTE 42413:  Unit hydrograph volume for subbasin "Subbasin-11" is 1.0000 mm.
+NOTE 42413:  Unit hydrograph volume for subbasin "Subbasin-2" is 1.0000 mm.
+NOTE 42413:  Unit hydrograph volume for subbasin "Subbasin-12" is 1.0000 mm.
+NOTE 42413:  Unit hydrograph volume for subbasin "Subbasin-7" is 1.0000 mm.
+NOTE 42413:  Unit hydrograph volume for subbasin "Subbasin-8" is 1.0000 mm.
+NOTE 42413:  Unit hydrograph volume for subbasin "Subbasin-13" is 1.0000 mm.
+NOTE 42413:  Unit hydrograph volume for subbasin "Subbasin-3" is 1.0000 mm.
+NOTE 42413:  Unit hydrograph volume for subbasin "Subbasin-16" is 1.0000 mm.
+NOTE 42413:  Unit hydrograph volume for subbasin "Subbasin-4" is 1.0000 mm.
+NOTE 42413:  Unit hydrograph volume for subbasin "Subbasin-18" is 1.0000 mm.
+NOTE 42413:  Unit hydrograph volume for subbasin "Subbasin-5" is 1.0000 mm.
+NOTE 42413:  Unit hydrograph volume for subbasin "Subbasin-10" is 1.0000 mm.
+WARNING 41201:  2 negative inflows to element "Reach-3" set to zero.
+     Equivalent volume (cu m): -0
+WARNING 41201:  2 negative inflows to element "Reach-7" set to zero.
+     Equivalent volume (cu m): -0
+WARNING 41201:  4 negative inflows to element "Reach-6" set to zero.
+     Equivalent volume (cu m): -0
+WARNING 41201:  2 negative inflows to element "Reach-5" set to zero.
+     Equivalent volume (cu m): -0
+WARNING 41201:  2 negative inflows to element "Sink-1" set to zero.
+     Equivalent volume (cu m): -0
+NOTE 15302:  Finished computing simulation run "Run 1" at time 01Mar2025, 17:00:11.
+NOTE 15312:  The total runtime for this simulation is 00:00.

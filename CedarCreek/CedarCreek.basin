@@ -1,0 +1,715 @@
+Basin: CedarCreek
+     Description: Basin model for CedarCreek
+     Last Modified Date: 26 February 2025
+     Last Modified Time: 10:12:39
+     Version: 4.12
+     Filepath Separator: \
+     Unit System: Metric
+     Missing Flow To Zero: No
+     Enable Flow Ratio: No
+     Compute Local Flow At Junctions: No
+     Unregulated Output Required: No
+
+     Enable Sediment Routing: No
+End:
+
+Subbasin: Subbasin-6
+     Last Modified Date: 1 March 2025
+     Last Modified Time: 11:06:48
+     Latitude Degrees:  41.4714153646625
+     Longitude Degrees: -85.12733540288694
+     Canvas X: 656369.958706146
+     Canvas Y: 4592783.4213044895
+     Area: 75.823
+     Downstream: Reach-2
+
+     Discretization: None
+     File: CedarCreek.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 78.734
+     Initial Abstraction: 0
+
+     Transform: SCS
+     Lag: 321.56
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+End:
+
+Subbasin: Subbasin-1
+     Last Modified Date: 1 March 2025
+     Last Modified Time: 11:06:48
+     Latitude Degrees:  41.49084861857345
+     Longitude Degrees: -85.02360190052796
+     Canvas X: 664982.9421450376
+     Canvas Y: 4595133.798608976
+     Area: 54.741
+     Downstream: Reach-2
+
+     Discretization: None
+     File: CedarCreek.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 80.128
+     Initial Abstraction: 0
+
+     Transform: SCS
+     Lag: 340.17
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+End:
+
+Reach: Reach-2
+     Last Modified Date: 1 March 2025
+     Last Modified Time: 11:09:02
+     Canvas X: 666475.3473207107
+     Canvas Y: 4586663.620715749
+     From Canvas X: 663775.3473207107
+     From Canvas Y: 4589603.620715749
+     Downstream: Reach-1
+
+     Route: Muskingum
+     Initial Variable: Combined Inflow
+     Muskingum K: 0.5
+     Muskingum x: 0
+     Muskingum Steps: 1
+     Channel Loss: None
+End:
+
+Subbasin: Subbasin-11
+     Last Modified Date: 1 March 2025
+     Last Modified Time: 11:06:48
+     Latitude Degrees:  41.464171211965464
+     Longitude Degrees: -84.96812289118583
+     Canvas X: 669683.9762890472
+     Canvas Y: 4592279.245637529
+     Area: 43.148
+     Downstream: Reach-1
+
+     Discretization: None
+     File: CedarCreek.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 79.443
+     Initial Abstraction: 0
+
+     Transform: SCS
+     Lag: 312.83
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+End:
+
+Subbasin: Subbasin-2
+     Last Modified Date: 1 March 2025
+     Last Modified Time: 11:06:48
+     Latitude Degrees:  41.42967364752578
+     Longitude Degrees: -85.04361837129547
+     Canvas X: 663465.566791498
+     Canvas Y: 4588303.7482572645
+     Area: 21.734
+     Downstream: Reach-1
+
+     Discretization: None
+     File: CedarCreek.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 80.007
+     Initial Abstraction: 0
+
+     Transform: SCS
+     Lag: 254.78
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+End:
+
+Reach: Reach-1
+     Last Modified Date: 1 March 2025
+     Last Modified Time: 11:09:02
+     Canvas X: 664105.3473207107
+     Canvas Y: 4582973.620715749
+     From Canvas X: 666475.3473207107
+     From Canvas Y: 4586663.620715749
+     Downstream: Reach-4
+
+     Route: Muskingum
+     Initial Variable: Combined Inflow
+     Muskingum K: 0.5
+     Muskingum x: 0
+     Muskingum Steps: 1
+     Channel Loss: None
+End:
+
+Subbasin: Subbasin-12
+     Last Modified Date: 1 March 2025
+     Last Modified Time: 11:06:48
+     Latitude Degrees:  41.40694796015526
+     Longitude Degrees: -84.97730579053675
+     Canvas X: 669065.5550171934
+     Canvas Y: 4585907.965771887
+     Area: 31.503
+     Downstream: Reach-4
+
+     Discretization: None
+     File: CedarCreek.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 79.869
+     Initial Abstraction: 0
+
+     Transform: SCS
+     Lag: 344.73
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+End:
+
+Subbasin: Subbasin-7
+     Last Modified Date: 1 March 2025
+     Last Modified Time: 11:06:48
+     Latitude Degrees:  41.39990443557816
+     Longitude Degrees: -85.02804879274137
+     Canvas X: 664841.8267518936
+     Canvas Y: 4585028.119446069
+     Area: 8.8605
+     Downstream: Reach-4
+
+     Discretization: None
+     File: CedarCreek.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 79.959
+     Initial Abstraction: 0
+
+     Transform: SCS
+     Lag: 162.96
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+End:
+
+Reach: Reach-4
+     Last Modified Date: 1 March 2025
+     Last Modified Time: 11:09:02
+     Canvas X: 662215.3473207107
+     Canvas Y: 4578563.620715749
+     From Canvas X: 664105.3473207107
+     From Canvas Y: 4582973.620715749
+     Downstream: Reach-3
+
+     Route: Muskingum
+     Initial Variable: Combined Inflow
+     Muskingum K: 0.5
+     Muskingum x: 0.25
+     Muskingum Steps: 1
+     Channel Loss: None
+End:
+
+Subbasin: Subbasin-8
+     Last Modified Date: 1 March 2025
+     Last Modified Time: 11:06:48
+     Latitude Degrees:  41.40280008329331
+     Longitude Degrees: -85.09906397192735
+     Canvas X: 655733.2650266232
+     Canvas Y: 4591249.286364578
+     Area: 48.672
+     Downstream: Reach-3
+
+     Discretization: None
+     File: CedarCreek.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 80.009
+     Initial Abstraction: 0
+
+     Transform: SCS
+     Lag: 342.96
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+End:
+
+Subbasin: Subbasin-13
+     Last Modified Date: 1 March 2025
+     Last Modified Time: 11:06:48
+     Latitude Degrees:  41.36375188180089
+     Longitude Degrees: -85.04503501798682
+     Canvas X: 663512.3949597456
+     Canvas Y: 4580982.084094551
+     Area: 21.442
+     Downstream: Reach-3
+
+     Discretization: None
+     File: CedarCreek.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 79.720
+     Initial Abstraction: 0
+
+     Transform: SCS
+     Lag: 228.09
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+End:
+
+Reach: Reach-3
+     Last Modified Date: 1 March 2025
+     Last Modified Time: 11:09:02
+     Canvas X: 661885.3473207107
+     Canvas Y: 4577753.620715749
+     From Canvas X: 662215.3473207107
+     From Canvas Y: 4578563.620715749
+     Downstream: Reach-7
+
+     Route: Muskingum
+     Initial Variable: Combined Inflow
+     Muskingum K: 0.5
+     Muskingum x: 0.25
+     Muskingum Steps: 1
+     Channel Loss: None
+End:
+
+Subbasin: Subbasin-3
+     Last Modified Date: 1 March 2025
+     Last Modified Time: 11:06:48
+     Latitude Degrees:  41.39767727331799
+     Longitude Degrees: -85.15686719703784
+     Canvas X: 654078.2497387083
+     Canvas Y: 4584543.664642022
+     Area: 65.769
+     Downstream: Reach-7
+
+     Discretization: None
+     File: CedarCreek.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 79.198
+     Initial Abstraction: 0
+
+     Transform: SCS
+     Lag: 409.91
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+End:
+
+Reach: Reach-7
+     Last Modified Date: 1 March 2025
+     Last Modified Time: 11:09:02
+     Canvas X: 656095.3473207107
+     Canvas Y: 4568423.620715749
+     From Canvas X: 661885.3473207107
+     From Canvas Y: 4577753.620715749
+     Downstream: Reach-6
+
+     Route: Muskingum
+     Initial Variable: Combined Inflow
+     Muskingum K: 0.5
+     Muskingum x: 0.25
+     Muskingum Steps: 1
+     Channel Loss: None
+End:
+
+Subbasin: Subbasin-16
+     Last Modified Date: 1 March 2025
+     Last Modified Time: 11:06:48
+     Latitude Degrees:  41.352219111472166
+     Longitude Degrees: -85.19883100645531
+     Canvas X: 650675.0053055694
+     Canvas Y: 4579422.925420158
+     Area: 119.84
+     Downstream: Reach-8
+
+     Discretization: None
+     File: CedarCreek.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 79.898
+     Initial Abstraction: 0
+
+     Transform: SCS
+     Lag: 510.61
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+End:
+
+Subbasin: Subbasin-4
+     Last Modified Date: 1 March 2025
+     Last Modified Time: 11:06:48
+     Latitude Degrees:  41.30815380699312
+     Longitude Degrees: -85.25049432676686
+     Canvas X: 646451.6687797093
+     Canvas Y: 4574442.173991429
+     Area: 62.328
+     Downstream: Reach-8
+
+     Discretization: None
+     File: CedarCreek.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 79.462
+     Initial Abstraction: 0
+
+     Transform: SCS
+     Lag: 384.72
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+End:
+
+Reach: Reach-8
+     Last Modified Date: 1 March 2025
+     Last Modified Time: 11:09:02
+     Canvas X: 656095.3473207107
+     Canvas Y: 4568423.620715749
+     From Canvas X: 656125.3473207107
+     From Canvas Y: 4572263.620715749
+     Downstream: Reach-6
+
+     Route: Muskingum
+     Initial Variable: Combined Inflow
+     Muskingum K: 0.5
+     Muskingum x: 0.25
+     Muskingum Steps: 1
+     Channel Loss: None
+End:
+
+Subbasin: Subbasin-18
+     Last Modified Date: 1 March 2025
+     Last Modified Time: 11:06:48
+     Latitude Degrees:  41.300580972969925
+     Longitude Degrees: -85.08918054850577
+     Canvas X: 659974.4355808387
+     Canvas Y: 4573886.252625815
+     Area: 54.361
+     Downstream: Reach-6
+
+     Discretization: None
+     File: CedarCreek.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 80.734
+     Initial Abstraction: 0
+
+     Transform: SCS
+     Lag: 281.76
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+End:
+
+Reach: Reach-6
+     Last Modified Date: 1 March 2025
+     Last Modified Time: 11:09:02
+     Canvas X: 656215.3473207107
+     Canvas Y: 4568153.620715749
+     From Canvas X: 656095.3473207107
+     From Canvas Y: 4568423.620715749
+     Downstream: Reach-5
+
+     Route: Muskingum
+     Initial Variable: Combined Inflow
+     Muskingum K: 0.5
+     Muskingum x: 0.25
+     Muskingum Steps: 1
+     Channel Loss: None
+End:
+
+Subbasin: Subbasin-5
+     Last Modified Date: 1 March 2025
+     Last Modified Time: 11:06:48
+     Latitude Degrees:  41.25457075055784
+     Longitude Degrees: -85.22150500665875
+     Canvas X: 649000.3430179195
+     Canvas Y: 4568542.614500601
+     Area: 84.712
+     Downstream: Reach-5
+
+     Discretization: None
+     File: CedarCreek.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 79.264
+     Initial Abstraction: 0
+
+     Transform: SCS
+     Lag: 421.62
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+End:
+
+Reach: Reach-5
+     Last Modified Date: 1 March 2025
+     Last Modified Time: 11:09:02
+     Canvas X: 657865.3473207107
+     Canvas Y: 4567523.620715749
+     From Canvas X: 656215.3473207107
+     From Canvas Y: 4568153.620715749
+     Downstream: Sink-1
+
+     Route: Muskingum
+     Initial Variable: Combined Inflow
+     Muskingum K: 0.5
+     Muskingum x: 0.25
+     Muskingum Steps: 1
+     Channel Loss: None
+End:
+
+Subbasin: Subbasin-10
+     Last Modified Date: 1 March 2025
+     Last Modified Time: 11:06:48
+     Latitude Degrees:  41.265209970925234
+     Longitude Degrees: -85.13335889947986
+     Canvas X: 656360.0767163151
+     Canvas Y: 4569878.764946521
+     Area: 6.5520
+     Downstream: Sink-1
+
+     Discretization: None
+     File: CedarCreek.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 78.387
+     Initial Abstraction: 0
+
+     Transform: SCS
+     Lag: 139.85
+     Unitgraph Type: STANDARD
+
+     Baseflow: None
+End:
+
+Sink: Sink-1
+     Last Modified Date: 1 March 2025
+     Last Modified Time: 11:30:04
+     Canvas X: 657865.3473207107
+     Canvas Y: 4567523.620715749
+     Observed Hydrograph Gage: Gage 1
+End:
+
+Basin Layer Properties:
+     Element Layer:
+          Name: Icons
+          Layer shown: Yes
+     End Layer:
+     Element Layer:
+          Name: Reaches
+          Layer shown: Yes
+     End Layer:
+     2D Connection Layer:
+          Layer shown: No
+     End Layer:
+     Map Layer:
+          Filename: CedarCreek.sqlite
+          Layer:13
+          Display name: Centroidal Flowpath
+          Minimum Scale: Undefined
+          Maximum Scale: Undefined
+          Layer shown: Yes
+     End Layer:
+     Map Layer:
+          Filename: CedarCreek.sqlite
+          Layer:12
+          Display name: Centroid
+          Minimum Scale: Undefined
+          Maximum Scale: Undefined
+          Layer shown: Yes
+     End Layer:
+     Map Layer:
+          Filename: CedarCreek.sqlite
+          Layer:14
+          Display name: 10-85 Flowpath
+          Minimum Scale: Undefined
+          Maximum Scale: Undefined
+          Layer shown: Yes
+     End Layer:
+     Map Layer:
+          Filename: CedarCreek.sqlite
+          Layer:11
+          Display name: Longest Flowpath
+          Minimum Scale: Undefined
+          Maximum Scale: Undefined
+          Layer shown: Yes
+     End Layer:
+     Element Layer:
+          Name: Subbasins
+          Layer shown: Yes
+     End Layer:
+     Discretization Layer:
+          Layer shown: No
+     End Layer:
+     Breakpoint Layer:
+          Layer shown: Yes
+     End Layer:
+     Base Layer:
+          Name: Identified Streams
+          Layer shown: No
+          Properties Filename: maps\streams1159140572025.xml
+     End Layer:
+     Base Layer:
+          Name: Flow Accumulation
+          Layer shown: No
+          Properties Filename: maps\flowaccum4357140572025.xml
+     End Layer:
+     Base Layer:
+          Name: Flow Direction
+          Layer shown: No
+          Properties Filename: maps\flowdir4357140572025.xml
+     End Layer:
+     Base Layer:
+          Name: Sink Locations
+          Layer shown: No
+          Properties Filename: maps\sinklocs0055140572025.xml
+     End Layer:
+     Base Layer:
+          Name: Sink Fill
+          Layer shown: Yes
+          Properties Filename: maps\sinkfill5954140572025.xml
+     End Layer:
+     Base Layer:
+          Name: Terrain
+          Layer shown: No
+          Properties Filename: maps\elevation4852140572025.xml
+     End Layer:
+End:
+
+Basin Spatial Properties:
+     Coordinate System: PROJCS["UTM_ZONE_16N_Nad83",GEOGCS["NAD83",DATUM["North_American_Datum_1983",SPHEROID["GRS 1980",6378137,298.257222101,AUTHORITY["EPSG","7019"]],AUTHORITY["EPSG","6269"]],PRIMEM["Greenwich",0,AUTHORITY["EPSG","8901"]],UNIT["degree",0.0174532925199433,AUTHORITY["EPSG","9122"]],AUTHORITY["EPSG","4269"]],PROJECTION["Transverse_Mercator"],PARAMETER["latitude_of_origin",0],PARAMETER["central_meridian",-87],PARAMETER["scale_factor",0.9996],PARAMETER["false_easting",500000],PARAMETER["false_northing",0],UNIT["metre",1,AUTHORITY["EPSG","9001"]],AXIS["Easting",EAST],AXIS["Northing",NORTH]]
+     Terrain: Cedar
+     Break Point: CedarOutlet
+          Description: Outlet for Creek
+          X Coordinate: 657879.252683494
+          Y Coordinate: 4567519.216226553
+     End Break Point:
+     junction_insert: false
+End:
+
+Basin Schematic Properties:
+     Last View N: 4595133.798608976
+     Last View S: 4567523.620715749
+     Last View W: 646451.6687797093
+     Last View E: 669683.9762890472
+     Maximum View N: 4595133.798608976
+     Maximum View S: 4567523.620715749
+     Maximum View W: 646451.6687797093
+     Maximum View E: 669683.9762890472
+     Extent Method: Elements
+     Buffer: 0
+     Draw Icons: Yes
+     Draw Icon Labels: Name
+     Draw Map Objects: No
+     Draw Gridlines: No
+     Draw Flow Direction: No
+     Draw HillShade Layer: Yes
+     Draw Elevation Layer: Yes
+     Elevation Layer Color Palette: Gray Scale
+     Ignore Elevation Color Ramp Scale: No
+     Use Interpolated Color Ramp for Elevation Layer: Yes
+     Color Ramp Opacity Level for Elevation Layer: 33.0
+     Fix Element Locations: No
+     Fix Hydrologic Order: No
+End:

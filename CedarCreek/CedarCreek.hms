@@ -1,0 +1,27 @@
+Project: CedarCreek
+     Description: HEC-HMS model for cedarcreek
+     Version: 4.12
+     Filepath Separator: \
+     DSS File Name: CedarCreek.dss
+     Time Zone ID: Asia/Calcutta
+End:
+
+Precipitation: Met 1
+     Filename: Met_1.met
+     Description: Meterological Model For Cedar Creek
+     Last Modified Date: 1 March 2025
+     Last Modified Time: 11:17:26
+End:
+
+Basin: CedarCreek
+     Filename: CedarCreek.basin
+     Description: Basin model for CedarCreek
+     Last Modified Date: 1 March 2025
+     Last Modified Time: 11:30:04
+End:
+
+Control: Control 1
+     FileName: Control_1.control
+     Description: Simulation Of 2005 FEB Event in Cedar Creek 
+End:
+

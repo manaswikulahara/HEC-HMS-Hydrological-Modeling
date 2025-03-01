@@ -1,0 +1,48 @@
+Gage Manager: CedarCreek
+     Version: 4.12
+     Filepath Separator: \
+End:
+
+Gage: Gage 1
+     Description: Rainfall Gage for Cedar Creek
+     Last Modified Date: 1 March 2025
+     Last Modified Time: 11:15:57
+     Reference Height Units: Meters
+     Reference Height: 10.0
+     Gage Type: Precipitation
+     Precipitation Type: Incremental
+     Units: MM
+     Data Type: PER-CUM
+     Data Source Type: Manual Entry
+     Variant: Variant-1
+       Last Variant Modified Date: 1 March 2025
+       Last Variant Modified Time: 11:12:47
+       Default Variant: Yes
+       DSS File Name: CedarCreek.dss
+       DSS Pathname: //Gage 1/PRECIP-INC//1HOUR/GAGE/
+       Start Time: 21 February 2005, 01:00
+       End Time: 21 February 2005, 14:00
+     End Variant: Variant-1
+End:
+
+Gage: Gage 1
+     Description: Observed Discharge at Cedar Creek Outlet
+     Last Modified Date: 1 March 2025
+     Last Modified Time: 11:29:39
+     Reference Height Units: Meters
+     Reference Height: 10.0
+     Gage Type: Flow
+     Units: M3/S
+     Data Type: INST-VAL
+     Data Source Type: Manual Entry
+     Variant: Variant-1
+       Last Variant Modified Date: 1 March 2025
+       Last Variant Modified Time: 11:28:08
+       Default Variant: Yes
+       DSS File Name: CedarCreek.dss
+       DSS Pathname: //Gage 1/FLOW//1HOUR/GAGE/
+       Start Time: 21 February 2005, 01:00
+       End Time: 25 February 2005, 06:00
+     End Variant: Variant-1
+End:
+

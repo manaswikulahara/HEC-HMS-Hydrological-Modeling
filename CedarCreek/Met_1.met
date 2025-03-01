@@ -1,0 +1,108 @@
+Meteorology: Met 1
+     Description: Meterological Model For Cedar Creek
+     Last Modified Date: 1 March 2025
+     Last Modified Time: 11:16:42
+     Version: 4.12
+     Unit System: Metric
+     Set Missing Data to Default: Yes
+     Precipitation Method: Specified Average
+     Air Temperature Method: None
+     Atmospheric Pressure Method: None
+     Dew Point Method: None
+     Wind Speed Method: None
+     Shortwave Radiation Method: None
+     Longwave Radiation Method: None
+     Snowmelt Method: None
+     Evapotranspiration Method: No Evapotranspiration
+     Use Basin Model: CedarCreek
+End:
+
+Precip Method Parameters: Specified Average
+     Last Modified Date: 1 March 2025
+     Last Modified Time: 11:15:46
+     Allow Depth Override: No
+End:
+
+Subbasin: Subbasin-10
+     Last Modified Date: 1 March 2025
+     Last Modified Time: 11:17:26
+     Gage: Gage 1
+End:
+
+Subbasin: Subbasin-11
+     Last Modified Date: 1 March 2025
+     Last Modified Time: 11:17:26
+     Gage: Gage 1
+End:
+
+Subbasin: Subbasin-1
+     Last Modified Date: 1 March 2025
+     Last Modified Time: 11:17:26
+     Gage: Gage 1
+End:
+
+Subbasin: Subbasin-12
+     Last Modified Date: 1 March 2025
+     Last Modified Time: 11:17:26
+     Gage: Gage 1
+End:
+
+Subbasin: Subbasin-2
+     Last Modified Date: 1 March 2025
+     Last Modified Time: 11:17:26
+     Gage: Gage 1
+End:
+
+Subbasin: Subbasin-13
+     Last Modified Date: 1 March 2025
+     Last Modified Time: 11:17:26
+     Gage: Gage 1
+End:
+
+Subbasin: Subbasin-3
+     Last Modified Date: 1 March 2025
+     Last Modified Time: 11:17:26
+     Gage: Gage 1
+End:
+
+Subbasin: Subbasin-16
+     Last Modified Date: 1 March 2025
+     Last Modified Time: 11:17:26
+     Gage: Gage 1
+End:
+
+Subbasin: Subbasin-18
+     Last Modified Date: 1 March 2025
+     Last Modified Time: 11:17:26
+     Gage: Gage 1
+End:
+
+Subbasin: Subbasin-4
+     Last Modified Date: 1 March 2025
+     Last Modified Time: 11:17:26
+     Gage: Gage 1
+End:
+
+Subbasin: Subbasin-5
+     Last Modified Date: 1 March 2025
+     Last Modified Time: 11:17:26
+     Gage: Gage 1
+End:
+
+Subbasin: Subbasin-6
+     Last Modified Date: 1 March 2025
+     Last Modified Time: 11:17:26
+     Gage: Gage 1
+End:
+
+Subbasin: Subbasin-7
+     Last Modified Date: 1 March 2025
+     Last Modified Time: 11:17:26
+     Gage: Gage 1
+End:
+
+Subbasin: Subbasin-8
+     Last Modified Date: 1 March 2025
+     Last Modified Time: 11:17:26
+     Gage: Gage 1
+End:
