@@ -1,4 +1,4 @@
-NOTE 15301:  Began computing simulation run "Run 1" at time 01Mar2025, 17:00:11.
+NOTE 15301:  Began computing simulation run "Run 1" at time 26Mar2025, 10:51:07.
 NOTE 20364:  Found no parameter problems in meteorologic model "Met 1".
 NOTE 40049:  Found no parameter problems in basin model "CedarCreek".
 WARNING 41743:  Initial abstraction ratio for subbasin "Subbasin-6" is 0.0.
@@ -60,5 +60,5 @@ WARNING 41201:  2 negative inflows to element "Reach-5" set to zero.
      Equivalent volume (cu m): -0
 WARNING 41201:  2 negative inflows to element "Sink-1" set to zero.
      Equivalent volume (cu m): -0
-NOTE 15302:  Finished computing simulation run "Run 1" at time 01Mar2025, 17:00:11.
-NOTE 15312:  The total runtime for this simulation is 00:00.
+NOTE 15302:  Finished computing simulation run "Run 1" at time 26Mar2025, 10:51:09.
+NOTE 15312:  The total runtime for this simulation is 00:02.
